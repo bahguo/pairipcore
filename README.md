@@ -215,6 +215,6 @@ No, Google aren't stupid and the pairipcore mechanism is complicated: to prevent
 Congratulations! The Java part is finished! What's next?
 
 # More analysis
-
-[PairIP Protection Remover](https://github.com/void-eth/pairip-protection-remover)
+- [PairIP Protection Remover](https://github.com/void-eth/pairip-protection-remover)
 A simple, cross-platform tool for bypassing Google's PairIP protection in Flutter applications. Available in both Python and Bash versions.
+- Russian Konsortium and Techno-Indian PairIP [bypass](https://github.com/TechnoIndian/RK_Pairip)
